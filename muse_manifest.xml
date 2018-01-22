@@ -1,0 +1,233 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mama html" resolutions="1x" timestamp="1516591661956">
+  <folder name="css">
+    <file name="site_global.css" crc="3964367024"/>
+    <file name="master_a-master.css" crc="247106262" ref="index:single-work"/>
+    <file name="nomq_preview_master_a-master.css" crc="3925993846" ref="index:single-work"/>
+    <file name="index.css" crc="3853551004" ref="index"/>
+    <file name="nomq_index.css" crc="3915501298" ref="index"/>
+    <file name="iefonts_index.css" crc="69461468" ref="index"/>
+    <file name="single-work.css" crc="3913943124" ref="single-work"/>
+    <file name="nomq_single-work.css" crc="454564946" ref="single-work"/>
+    <file name="iefonts_single-work.css" crc="69461468" ref="single-work"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:single-work"/>
+    <file name="museutils.js" crc="3803043152" ref="index:single-work"/>
+    <file name="whatinput.js" crc="86476730" ref="index:single-work"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:single-work"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:single-work"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:single-work"/>
+    <file name="webpro.js" crc="242022427" ref="index:single-work"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:single-work"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:single-work"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:single-work"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:single-work"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u9248.php" crc="165957026" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:single-work"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:single-work"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:single-work"/>
+    <file name="require.js" crc="4157109226" ref="index:single-work"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="150830930" ref="index"/>
+    <file name="melissa logo.png" crc="4186233908" seo="true" ref="index:single-work">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="single-work" alt=""/>
+      <caption webpage="single-work" alt=""/>
+      <caption webpage="single-work" alt=""/>
+      <caption webpage="single-work" alt=""/>
+      <caption webpage="single-work" alt=""/>
+    </file>
+    <file name="giammarco-boscaro-380903.jpg" crc="38743878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:single-work"/>
+    <file name="giammarco-boscaro-380898.jpg" crc="126567030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="joey-kyber-121699.jpg" crc="323758884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="about_img.jpg" crc="4291005491" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="consiltoira.png" crc="3955579513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_bg.jpg" crc="506331883" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_img_1.jpg" crc="3799859718" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_img_2.jpg" crc="41693121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testimonial_img_3.jpg" crc="518185724" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client1.png" crc="3964563035" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client5.png" crc="4215646388" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client3.png" crc="4105681861" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client4.png" crc="232789348" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client2.png" crc="440606175" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client6.png" crc="4248981999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="piggybank.png" crc="3763970620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calidad.png" crc="4199730595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checklist.png" crc="3844670603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="compromiso.png" crc="4146815606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="handshake.png" crc="284344263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="route.png" crc="4047744390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="client1-u2086-fr.png" crc="222980883" ref="index"/>
+    <file name="client5-u2087-fr.png" crc="3844678133" ref="index"/>
+    <file name="client3-u2088-fr.png" crc="4102400870" ref="index"/>
+    <file name="client4-u2089-fr.png" crc="42240458" ref="index"/>
+    <file name="client2-u2090-fr.png" crc="3886302772" ref="index"/>
+    <file name="client6-u2091-fr.png" crc="3914217685" ref="index"/>
+    <file name="icon_menu.gif" crc="3885901089" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon_menu_close.gif" crc="4194633723" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeslide.jpg" crc="506331883" ref="single-work">
+      <caption webpage="single-work" alt=""/>
+    </file>
+    <file name="single_work_1-u9647-fr.jpg" crc="151398858" ref="single-work"/>
+    <file name="single_work_2-u9693-fr.jpg" crc="3019535" ref="single-work"/>
+    <file name="single_work_3-u9699-fr.jpg" crc="413148190" ref="single-work"/>
+    <file name="homeslide-u9611-fr.jpg" crc="3910094927" ref="single-work"/>
+    <file name="single_work_1-u9647-fr2.jpg" crc="199756826" ref="single-work"/>
+    <file name="single_work_2-u9693-fr2.jpg" crc="348423919" ref="single-work"/>
+    <file name="single_work_3-u9699-fr2.jpg" crc="4288377249" ref="single-work"/>
+    <file name="homeslide-u9611-fr2.jpg" crc="84827386" ref="single-work"/>
+    <file name="single_work_1-u9647-fr3.jpg" crc="3786632356" ref="single-work"/>
+    <file name="single_work_2-u9693-fr3.jpg" crc="117948917" ref="single-work"/>
+    <file name="single_work_3-u9699-fr3.jpg" crc="419204908" ref="single-work"/>
+    <file name="homeslide-u9611-fr3.jpg" crc="532911357" ref="single-work"/>
+    <file name="single_work_1-u9647-fr4.jpg" crc="4035838274" ref="single-work"/>
+    <file name="single_work_2-u9693-fr4.jpg" crc="530595278" ref="single-work"/>
+    <file name="single_work_3-u9699-fr4.jpg" crc="41933183" ref="single-work"/>
+    <file name="homeslide-u9611-fr4.jpg" crc="240770234" ref="single-work"/>
+    <file name="single_work_1-u9647-fr5.jpg" crc="87916372" ref="single-work"/>
+    <file name="single_work_2-u9693-fr5.jpg" crc="372956642" ref="single-work"/>
+    <file name="single_work_3-u9699-fr5.jpg" crc="99887288" ref="single-work"/>
+  </folder>
+  <file name="index.html" crc="89685606" seo="true" mt="1516591172189" redirect="true"/>
+  <file name="single-work.html" crc="3852374640" seo="true" mt="1516588811600" redirect="true"/>
+</manifest>
